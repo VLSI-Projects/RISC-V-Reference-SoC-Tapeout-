@@ -42,10 +42,20 @@ bash install_yosys.sh
 After installation, verify by running:
 
 yosys -V
+
+
 iverilog -V
+
+
 gtkwave -h
+
+
 ngspice -v
+
+
 magic -v
+
+
 docker --version   # for OpenLANE
 
 ## 📑 References
